@@ -1,0 +1,12 @@
+{
+  "name": "goodwill-sniper-app",
+  "version": "1.0.0",
+  "description": "Auto-snipes ShopGoodwill auctions at the last 5 seconds",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "puppeteer": "^21.3.8"
+  }
+}
