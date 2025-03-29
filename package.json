@@ -3,8 +3,10 @@
   "version": "1.0.0",
   "description": "Auto-snipes ShopGoodwill auctions at the last 5 seconds",
   "main": "server.js",
-  "scripts": {
-    "start": "node server.js"
+  ""scripts": {
+  "start": "node index.js"
+}
+"
   },
   "engines": {
     "node": "18.x"
