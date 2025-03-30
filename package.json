@@ -9,6 +9,9 @@
   "engines": {
     "node": "18.x"
   },
+  "puppeteer": {
+    "skip_chromium_download": true
+  },
   "dependencies": {
     "puppeteer": "^21.3.8"
   }
