@@ -3,9 +3,9 @@
   "version": "1.0.0",
   "description": "Auto-snipes ShopGoodwill auctions at the last 5 seconds",
   "main": "server.js",
- "scripts": {
-  "start": "bun run index.ts"  // or whatever your entry point file is
-}
+  "scripts": {
+    "start": "bun run server.js"
+  },
   "engines": {
     "node": "18.x"
   },
